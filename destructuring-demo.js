@@ -20,4 +20,4 @@ console.log(thirdThing);
 // example!
 const exampleObj = { name: "Rusty", room: "kitchen", weapon: "candlestick" };
 const { weapon, room } = exampleObj;
-console.log(weapon, room)
+console.log(weapon, room);
